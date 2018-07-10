@@ -6,7 +6,7 @@
 
 # mothers_day
 
-def mothers_day(mothers_name)
+def mothers_day(mothers_name = "Mom")
   puts "Happy Mother's Day, #{mothers_name}!"
 end 
-mothers_day("Beyonce")
+mothers_day
